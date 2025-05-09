@@ -15,9 +15,9 @@ An Android application that leverages AI models to generate realistic speech fro
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/yourusername/replicateai/raw/main/screenshots/history.png" width="30%" alt="History Screen">
-  <img src="https://github.com/yourusername/replicateai/raw/main/screenshots/generation_speech02.png" width="30%" alt="Speech-02 Generation">
-  <img src="https://github.com/yourusername/replicateai/raw/main/screenshots/generation_kokoro.png" width="30%" alt="Kokoro Generation">
+  <img src="https://github.com/SalmanKhanB/ReplicateAi/history.png" width="30%" alt="History Screen">
+  <img src="https://github.com/SalmanKhanB/ReplicateAi/generation_speech02.png" width="30%" alt="Speech-02 Generation">
+  <img src="https://github.com/SalmanKhanB/ReplicateAi/generation_kokoro.png" width="30%" alt="Kokoro Generation">
 </p>
 
 ## Setup
