@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Salman Khan - [@Fiverr](https://www.fiverr.com/users/salmankhan150/portfolio/) - jan9222522@gmail.com
 
-Project Link: [https://github.com/yourusername/replicateai](https://github.com/yourusername/replicateai)
+Project Link: [ReplicateAi](https://github.com/SalmanKhanB/ReplicateAi.git)
